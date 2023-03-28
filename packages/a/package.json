@@ -1,0 +1,18 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "18.2.0",
+    "b": "workspace:*",
+    "c": "workspace:*",
+    "eslint": "8.36.0",
+    "prettier": "2.8.7"
+  }
+}
